@@ -1,1 +1,2 @@
-# Student-Management-System-main
+# Student-Management-System
+SMS
